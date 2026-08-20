@@ -27,6 +27,7 @@ So I am making a gpio hat for raspberry pi expansion board it has extended gpio 
 
 ## Now PCB layout and tracing
 
+Software completing with the schematic part. Now I move to PCB layout and tracing all the first. I thought to make it like an big one. So then I realise that I want to stick it up in the raspberry pi so I need to make it small and compact also for the mounting, I have also placed two holes on each of the side of the PCB so that it can be easily mounted on the board or if I'm using it externally, I can screw It up.
 
 <img width="897" height="714" alt="Screenshot 2026-08-20 at 7 34 49 PM" src="https://github.com/user-attachments/assets/0d73b9ea-6dd2-4ec3-aed3-9091894fffdf" />
 <img width="692" height="598" alt="Screenshot 2026-08-20 at 7 35 53 PM" src="https://github.com/user-attachments/assets/a26b6b38-9625-4935-bcb5-ff852be01212" />
@@ -43,6 +44,8 @@ Gerber generated
 <img width="1267" height="815" alt="Screenshot 2026-08-20 at 7 44 34 PM" src="https://github.com/user-attachments/assets/137505b9-5431-4314-8f34-bb949641f91b" />
 
 **Final Look**
+
+This is the PCB that I am going to order yaa
 
 <img width="782" height="415" alt="Screenshot 2026-08-20 at 8 14 18 PM" src="https://github.com/user-attachments/assets/d3721c75-9d3a-4305-9a9d-bd0b9cb89661" />
 
