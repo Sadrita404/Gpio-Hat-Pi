@@ -6,6 +6,12 @@
 
 </div>
 
+| |  |
+|:-- |:--|
+|<img width="1020" height="627" alt="Screenshot 2026-08-20 at 9 48 08 PM" src="https://github.com/user-attachments/assets/8e8769dc-d375-4c6e-a2ce-d55e7bbaaa7a" />|<img width="986" height="623" alt="Screenshot 2026-08-20 at 9 48 26 PM" src="https://github.com/user-attachments/assets/ce5d3309-b745-4403-8a67-01aa32a63f2c" />|
+
+</div>
+
 
 |Title | Gpio-Hat-Pi |
 |:-- |:--|
