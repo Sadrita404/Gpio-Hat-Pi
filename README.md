@@ -12,6 +12,7 @@
 
 </div>
 
+For the extension Gpio I will going connect it with jumper wire so that I can mount it in other place , this will also perfectly fit into the raspberry pi ..
 
 |Title | Gpio-Hat-Pi |
 |:-- |:--|
