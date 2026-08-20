@@ -18,7 +18,7 @@ So I am making a gpio hat for raspberry pi expansion board it has extended gpio 
 <img width="869" height="575" alt="Screenshot 2026-08-20 at 7 26 57 PM" src="https://github.com/user-attachments/assets/fffa6257-7cc5-4913-ba1c-a4895dc38fbb" />
 <img width="246" height="358" alt="Screenshot 2026-08-20 at 7 27 22 PM" src="https://github.com/user-attachments/assets/d46d0379-303a-439d-9355-4d94068ada9d" />
 
-<img width="828" height="581" alt="Screenshot 2026-08-20 at 7 31 01 PM" src="https://github.com/user-attachments/assets/2904418a-b2e7-44bb-96b3-eaabf3973584" />
+<img width="607" height="345" alt="Screenshot 2026-08-20 at 8 46 19 PM" src="https://github.com/user-attachments/assets/ae6447e3-a290-4a66-b3ad-d83bcff269de" />
 
 
 
